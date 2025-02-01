@@ -56,5 +56,3 @@ This project was mainly for learning purposes, but feel free to fork it, suggest
 1. Kopiere den gesamten Code oben (einschließlich der ```markdown```-Tags).
 2. Füge ihn direkt in deine `README.md`-Datei in VSCode ein.
 3. Speichere die Datei und pushe sie zu GitHub.
-
-Jetzt sollte alles in deiner `README.md` richtig formatiert sein, wenn du es auf GitHub hochlädst!
