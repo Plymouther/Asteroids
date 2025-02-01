@@ -40,7 +40,7 @@ class Player(CircleShape):
 
     def shoot(self):
         current_time = time.time()
-        if current_time - self.last_shot_time >= 0.5:  # 1/2 second cooldown
+        if current_time - self.last_shot_time >= 0.35:  #Shot Cd cooldown
             new_shot = Shot(self.position.x, self.position.y)
             new_shot.velocity = pygame.Vector2(0, -1)
             new_shot.velocity.rotate_ip(self.rotation)
