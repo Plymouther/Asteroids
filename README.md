@@ -15,6 +15,8 @@ This project was created as a way to learn and practice **Object-Oriented Progra
 - **Python**: Primary programming language
 
 ## Project Structure
+
+```plaintext
 OOP-Learning-Project/
 ├── src/                # Source code
 │   ├── player.py       # Player class demonstrating OOP principles
@@ -23,6 +25,7 @@ OOP-Learning-Project/
 │   └── main.py         # Main execution logic
 ├── README.md           # This file
 └── requirements.txt    # Python dependencies (if any)
+
 
 ## How to Run
 
