@@ -50,9 +50,3 @@ This project is open-source and available under the MIT License.
 Contributing
 
 This project was mainly for learning purposes, but feel free to fork it, suggest improvements, or even add new features!
-
-
-### So verwendest du es:
-1. Kopiere den gesamten Code oben (einschließlich der ```markdown```-Tags).
-2. Füge ihn direkt in deine `README.md`-Datei in VSCode ein.
-3. Speichere die Datei und pushe sie zu GitHub.
